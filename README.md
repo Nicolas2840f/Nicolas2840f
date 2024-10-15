@@ -11,38 +11,50 @@ Prácticas profesionales en análisis y desarrollo de software, aplicando las me
 
 **🚀 Habilidades Técnicas**
 
-Lenguajes de Programación:
+_Lenguajes de Programación:
 
 JavaScript: Nivel Intermedio
+
 Node.js: Nivel Intermedio
+
 Java: Nivel Intermedio
+
 Python: Nivel Básico
+
 PHP: Nivel Básico
 
-Frameworks y Librerías:
+_Frameworks y Librerías:
 
 React: Nivel Intermedio
+
 Django: Nivel Básico
+
 Flask: Nivel Básico
+
 Laravel: Nivel Básico
 
-Servicios en la Nube:
+_Servicios en la Nube:
 
 AWS Lambda, DynamoDB, S3, Bedrock, CloudFormation,etc.
+
 Serverless Framework
 
-Otras Herramientas:
+_Otras Herramientas:
 
 Git: Nivel Intermedio
+
 MySQL, Docker, RESTful APIs: Nivel Intermedio
 
 **📚 Formación Académica y Certificaciones**
 
 Técnico en Manejo Ambiental (2021)
+
 Tecnólogo en Análisis y Desarrollo de Software (en curso, 2024)
+
 Cursos y Masterclass: Programación en C++, Desarrollo web con PHP, Fundamentos en Java.
 
 **🌟 Siempre listo para el siguiente reto**
 
 Estoy en constante evolución, aprendiendo nuevas tecnologías y técnicas para ofrecer soluciones innovadoras. 
+
 Si tienes un proyecto en mente o quieres colaborar en algo increíble, no dudes en contactarme. ¡Hagamos que la tecnología trabaje para el futuro!
