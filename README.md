@@ -12,9 +12,13 @@ tecnologías serverless y servicios en la nube como AWS Lambda, DynamoDB y Cloud
 🚀 Habilidades Técnicas
 
 Lenguajes: JavaScript, Node.js, Java, Python, PHP
+
 Frameworks: React, Django, Flask, Laravel
+
 Servicios en la nube: AWS (Lambda, S3, Bedrock, DynamoDB)
+
 Herramientas: Git, Docker, MySQL, RESTful APIs
+
 Metodologías: SCRUM
 
 📚 Educación y Certificaciones
