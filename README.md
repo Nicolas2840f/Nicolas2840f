@@ -21,9 +21,9 @@ _Lenguajes de Programación_:
 
 **Java:** Nivel Intermedio
 
-**Python:** Nivel Básico
+**Python:** Nivel Intermedio
 
-**PHP:** Nivel Básico
+**PHP:** Nivel Intermedio
 
 -------------------------------------------------------------------------------------------
 _Frameworks y Librerías_:
