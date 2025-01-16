@@ -8,7 +8,7 @@ Me encanta aprender, innovar y colaborar en proyectos que transforman ideas en s
 
 Desarrollo de aplicaciones en la nube con AWS: integración de herramientas de Inteligencia Artificial como OpenAI y AWS Bedrock.
 Implementación de arquitecturas serverless utilizando AWS Lambda, DynamoDB, S3 y CloudFormation.
-Prácticas profesionales en análisis y desarrollo de software, aplicando las mejores prácticas de desarrollo ágil con SCRUM.
+Profesional en análisis y desarrollo de software, aplicando las mejores prácticas de desarrollo ágil con SCRUM.
 
 -------------------------------------------------------------------------------------------
 **🚀 Habilidades Técnicas**
